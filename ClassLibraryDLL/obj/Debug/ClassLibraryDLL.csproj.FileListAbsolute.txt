@@ -1,0 +1,6 @@
+D:\C# Programs\ClassLibraryDLL\bin\Debug\ClassLibraryDLL.dll
+D:\C# Programs\ClassLibraryDLL\bin\Debug\ClassLibraryDLL.pdb
+D:\C# Programs\ClassLibraryDLL\obj\Debug\ClassLibraryDLL.csproj.AssemblyReference.cache
+D:\C# Programs\ClassLibraryDLL\obj\Debug\ClassLibraryDLL.csproj.CoreCompileInputs.cache
+D:\C# Programs\ClassLibraryDLL\obj\Debug\ClassLibraryDLL.dll
+D:\C# Programs\ClassLibraryDLL\obj\Debug\ClassLibraryDLL.pdb
